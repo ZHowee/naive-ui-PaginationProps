@@ -1,0 +1,21 @@
+{
+  "name": "naive-ui-pagination-props",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "tsc": "vue-tsc --noEmit --skipLibCheck"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.3",
+    "naive-ui": "^2.38.1",
+    "vue-tsc": "^2.0.7"
+  },
+  "dependencies": {
+    "vue": "^3.4.21"
+  }
+}
